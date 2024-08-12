@@ -1,1 +1,3 @@
 # Instagram-Post-Analyzer
+
+**Instagram Post Analyzer** is a Python-based project that fetches and analyzes comments from Instagram posts. Users input their Instagram username, password, and the post URL to retrieve comments using the `Instaloader` Python module. The project uses a BERT pre-trained model to classify comments into categories such as fear, joy, love, sadness and surprise. The analysis results are visualized in a pie chart, providing a clear overview of the emotional tone and sentiment distribution of the comments. This tool effectively combines Python, NLP, and data visualization for comprehensive Instagram comment analysis.
