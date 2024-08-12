@@ -1,10 +1,6 @@
 import instaloader
 import re
-'''
-for_project_only684
-6262Prav
-https://www.instagram.com/p/C-SnvOxygmM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
-'''
+
 my_list = []
 
 # Initialize Instaloader
