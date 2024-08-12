@@ -8,7 +8,7 @@ L = instaloader.Instaloader()
 
 username=input("Enter Your Instagram User Name:- ")
 password=input("Enter Your Instagram Password:- ")
-# Login (optional, but recommended for private profiles)
+
 try:
     L.login(username, password)
     print("\nLogin Sucessful")
